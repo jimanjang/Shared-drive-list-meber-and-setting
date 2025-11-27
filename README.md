@@ -1,4 +1,4 @@
-# Shared Drive 관리 스크립트 README
+# Shared Drive 관리 스크립트
 
 이 프로젝트는 Google Apps Script를 이용해 **조직의 공유 드라이브(Shared Drive) 목록과 멤버 권한을 스프레드시트로 내보내고**,
 해당 정보를 기반으로 **새 도메인으로 멤버 이메일을 변환한 복제 Shared Drive를 생성**하는 자동화 스크립트입니다.
